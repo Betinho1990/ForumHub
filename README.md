@@ -121,6 +121,8 @@ Use o token retornado para autenticar as demais requisições com header Authori
 
 ## Estrutura do projeto
 
+
+```css
 src
  └─ main
     ├─ java
@@ -133,6 +135,7 @@ src
     └─ resources
         ├─ application.properties
         └─ db/migration (Flyway)
+```
 
 ## Observações
 
@@ -150,4 +153,4 @@ src
 
 MIT License
 
-** Desenvolvido por: Roberto Filho
+## Desenvolvido por: Roberto Filho
